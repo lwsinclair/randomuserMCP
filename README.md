@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rycid-randomusermcp-badge.png)](https://mseep.ai/app/rycid-randomusermcp)
+
 <p align="center">
   <a href="./assets/randomUserLogoRemake.svg">
     <img src="./assets/randomUserLogoRemake.svg" align="c" height="100" />
